@@ -1,3 +1,6 @@
 [submodule "org-roam"]
 	path = org-roam
 	url = git@github.com:theianjones/org-roam.git
+[submodule "BrainForest"]
+	path = BrainForest
+	url = https://github.com/vicrdguez/BrainForest.git
